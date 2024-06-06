@@ -1,0 +1,181 @@
+{
+  "home": {
+    "play-online": "JUGAR ONLINE",
+    "play-solo": "JUGAR SOLO",
+    "academy": "ACADEMIA"
+  },
+  "config": {
+    "game-config": "CONFIG. DEL JUEGO",
+    "profile-config": "CONFIG. DE PERFIL",
+    "stats": "ESTADÍSTICAS",
+    "league": "LIGA",
+    "log-out": "CERRAR SESIÓN"
+  },
+  "underConstruction": {
+    "under-construction": "ESTA SECCIÓN ESTÁ EN CONSTRUCCIÓN"
+  },
+  "playOnline": {
+    "host": "JUEGA",
+    "join": "UNIRSE",
+    "quick": "RÁPIDO",
+    "game": "JUEGO",
+    "classic": "CLÁSICO",
+    "rapid": "RÁPIDA",
+    "blitz": "BLITZ",
+    "bullet": "BULLET",
+    "custom": "PERSONALIZADO"
+  },
+  "waitingForOpponent": {
+    "waiting": "ESPERANDO OPONENTE",
+    "cancel": "CANCELAR"
+  },
+  "pannelGame": {
+    "you": "TÚ",
+    "rival": "RIVAL"
+  },
+  "gameResult": {
+    "rewards": "RECOMPENSAS",
+    "rematch": "REVANCHA"
+  },
+  "totalMatches": {
+    "totalMatches": "PARTIDAS TOTALES",
+    "w": "G",
+    "l": "P",
+    "d": "E"
+  },
+  "profile": {
+    "banner": "BANDERA",
+    "aboutMe": "SOBRE MÍ",
+    "winQuote": "FRASE DE VICTORIA",
+    "drawQuote": "FRASE DE EMPATE",
+    "loseQuote": "FRASE DE DERROTA",
+    "avatar": "AVATAR",
+    "piecesSkin": "ESTILO DE PIEZAS",
+    "title": "TÍTULO",
+    "medals": "MEDALLAS",
+    "profileConfig": "CONFIGURACIÓN DE PERFIL"
+  },
+  "playSolo": {
+    "vsBots": "CONTRA BOTS",
+    "dailyChallenge": "DESAFÍO DIARIO"
+  },
+  "vsBots": {
+    "choose": "ELEGIR",
+    "start": "EMPEZAR",
+    "text": "En las vastas tierras de Gall existen tantos ajedrecistas como personas. Pero no todo el mundo tiene una gran historia que contar, simples ciudadanos de un mundo que rinde culto a la guerra y el ajedrez, cuyos rostros están condenados al anonimato y sus nombres a vivir en las antípodas de la nombradía. ",
+    "white": "BLANCO",
+    "random": "RANDOM",
+    "black": "NEGRO",
+    "noassist": "NO ASISTIDO",
+    "assisted": "ASISTIDO",
+    "fullassisted": "FULL ASISTIDO",
+    "textUnder": "¡LA ASISTENCIA EN EL JUEGO ESTÁ EN CONSTRUCCIÓN! ¡MUY PRONTO!",
+    "backToProfile": "VOLVER A PERFIL"
+  },
+  "gameConfig": {
+    "enablePromoves": "Habilitar promociones",
+    "alwaysPromoteToQueen": "Promocionar siempre a reina",
+    "confirmResign": "Confirmar rendición",
+    "lowTimeWarning": "Advertencia de poco tiempo",
+    "automaticAnalysis": "Análisis automático",
+    "allowChallenges": "Permitir desafíos",
+    "showTimestamps": "Mostrar marcas de tiempo",
+    "salesAlerts": "Alertas de ventas",
+    "dailyQuestAlerts": "Alertas de misiones diarias",
+    "newItemsAlerts": "Alertas de nuevos artículos",
+    "tradeRequest": "Solicitud de intercambio",
+    "chatRequests": "Solicitudes de chat",
+    "chatRequestsOptions": {
+      "everyone": "Todos",
+      "friends": "Amigos",
+      "noOne": "Nadie"
+    },
+    "ingameChat": "Chat en juego",
+    "ingameChatOptions": {
+      "everyone": "Todos",
+      "friends": "Amigos",
+      "noOne": "Nadie"
+    },
+    "challengesAlerts": "Alertas de desafíos",
+    "challengesAlertsOptions": {
+      "everyone": "Todos",
+      "friends": "Amigos",
+      "noOne": "Nadie"
+    },
+    "friendsAlerts": "Alertas de Amigos",
+    "friendsAlertsOptions": {
+      "everyone": "Todos",
+      "friends": "Amigos",
+      "requestOnly": "solo solicitudes"
+    },
+    "eventsAlerts": "Alertas de eventos",
+    "eventsAlertsOptions": {
+      "allEvents": "Todos los eventos",
+      "friends": "Amigos",
+      "noOne": "Nadie"
+    },
+    "ingameAlerts": "Alertas en juego",
+    "ingameAlertsOptions": {
+      "allAlerts": "Todas las Alertas",
+      "friends": "Amigos",
+      "noOne": "Nadie"
+    },
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "contactEmail": "Email de contacto",
+    "location": "Ubicación",
+    "country": "País",
+    "timezone": "Zona horaria"
+  },
+  "profileConfig": {
+    "location": "Ubicación",
+    "country": "País",
+    "timezone": "Zona horaria"
+  },
+  "locationOptions": {
+    "location1": "Ubicación 1",
+    "location2": "Ubicación 2",
+    "location3": "Ubicación 3"
+  },
+  "countryOptions": {
+    "country1": "País 1",
+    "country2": "País 2",
+    "country3": "País 3"
+  },
+  "timezoneOptions": {
+    "GMT": "GMT",
+    "EST": "EST",
+    "PST": "PST"
+  },
+  "selectOption": {
+    "selectOption": "Elige una Opcion",
+        "UiLanguage" : "Idioma UI"
+
+  },
+  "league": {
+    "title": "LIGA DE PLATA 2",
+    "subtitle": "TIEMPO RESTANTE: 2 días, 4 horas",
+    "promote": "ASCENDER A PLATA 1"
+  },
+
+  "places": {
+    "firstPlace": "Primer Lugar",
+    "firstPlaceDesc": "¡Consigue el primer lugar al final de la semana para obtener un GRAN COFRE DE BOTÍN y ascender a PLATA I!",
+    "secondPlace": "Segundo Lugar",
+    "secondPlaceDesc": "Termina en segundo lugar para obtener un GRAN COFRE DE BOTÍN y ascender a PLATA II!",
+    "thirdPlace": "Tercer Lugar",
+    "thirdPlaceDesc": "Asegura el tercer lugar para recibir un BUEN COFRE DE BOTÍN!",
+    "fourthPlace": "Cuarto Lugar",
+    "fourthPlaceDesc": "Finaliza en cuarto lugar y recibe un COFRE DE BOTÍN ESTÁNDAR."
+  },
+  "lobby": {
+    "player": "JUGADOR",
+    "rating": "RATING",
+    "mode": "MODO",
+    "ranked": "RANKING"
+  },
+  "endGame": {
+    "text": "¡EL PARTIDO HA TERMINADO!",
+    "subText": "REVISAR EL JUEGO"
+  }
+}

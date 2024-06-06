@@ -1,0 +1,179 @@
+{
+  "home": {
+    "play-online": "PLAY ONLINE",
+    "play-solo": "PLAY SOLO",
+    "academy": "ACADEMY"
+  },
+  "config": {
+    "game-config": "GAME CONFIG",
+    "profile-config": "PROFILE CONFIG",
+    "stats": "STATS",
+    "league": "LEAGUE",
+    "log-out": "LOG OUT"
+  },
+  "underConstruction": {
+    "under-construction": "THIS SECTION IS UNDER CONSTRUCTION"
+  },
+  "playOnline": {
+    "host": "PLAY",
+    "join": "JOIN",
+    "quick": "QUICK",
+    "game": "GAME",
+    "classic": "CLASSIC",
+    "rapid": "RAPID",
+    "blitz": "BLITZ",
+    "bullet": "BULLET",
+    "custom": "CUSTOM"
+  },
+  "waitingForOpponent": {
+    "waiting": "WAITING FOR OPPONENT",
+    "cancel": "CANCEL"
+  },
+  "pannelGame": {
+    "you": "YOU",
+    "rival": "RIVAL"
+  },
+  "gameResult": {
+    "rewards": "REWARDS",
+    "rematch": "REMATCH"
+  },
+  "totalMatches": {
+    "totalMatches": "TOTAL MATCHES",
+    "w": "W",
+    "l": "L",
+    "d": "D"
+  },
+  "profile": {
+    "banner": "BANNER",
+    "aboutMe": "ABOUT ME",
+    "winQuote": "WIN QUOTE",
+    "drawQuote": "DRAW QUOTE",
+    "loseQuote": "LOSE QUOTE",
+    "avatar": "AVATAR",
+    "piecesSkin": "PIECES SKIN",
+    "title": "TITLE",
+    "medals": "MEDALS",
+    "profileConfig": "PROFILE CONFIG"
+  },
+  "playSolo": {
+    "vsBots": "VS BOTS",
+    "dailyChallenge": "DAILY CHALLENGE"
+  },
+  "vsBots": {
+    "choose": "CHOOSE",
+    "start": "START",
+    "text": "In the vast lands of Gall there are as many chess players as there are people. But not everyone has a great story to tell, simple citizens of a world that worships war and chess, whose faces are condemned to anonymity and their names to live at the antipodes of fame.",
+    "white": "WHITE",
+    "random": "RANDOM",
+    "black" : "BLACK",
+    "noassist": "NOASSIST",
+    "assisted": "ASSISTED",
+    "fullassisted": "FULLASSISTED",
+    "textUnder" : "INGAME ASSISTANCE IS UNDER CONSTRUCTION! COMING SOON!",
+    "backToProfile" : "BACK TO PROFILE"
+  },
+  "gameConfig": {
+    "enablePromoves": "enable promoves",
+    "alwaysPromoteToQueen": "always promote to queen",
+    "confirmResign": "confirm resign",
+    "lowTimeWarning": "low time warning",
+    "automaticAnalysis": "automatic analysis",
+    "allowChallenges": "allow challenges",
+    "showTimestamps": "show timestamps",
+    "salesAlerts": "sales alerts",
+    "dailyQuestAlerts": "daily quest alerts",
+    "newItemsAlerts": "new items alerts",
+    "tradeRequest": "trade request",
+    "chatRequests": "chat requests",
+    "chatRequestsOptions": {
+      "everyone": "everyone",
+      "friends": "friends",
+      "noOne": "no one"
+    },
+    "ingameChat": "ingame chat",
+    "ingameChatOptions": {
+      "everyone": "everyone",
+      "friends": "friends",
+      "noOne": "no one"
+    },
+    "challengesAlerts": "challenges alerts",
+    "challengesAlertsOptions": {
+      "everyone": "everyone",
+      "friends": "friends",
+      "noOne": "no one"
+    },
+    "friendsAlerts": "friends alerts",
+    "friendsAlertsOptions": {
+      "everyone": "everyone",
+      "friends": "friends",
+      "requestOnly": "request only"
+    },
+    "eventsAlerts": "events alerts",
+    "eventsAlertsOptions": {
+      "allEvents": "all events",
+      "friends": "friends",
+      "noOne": "no one"
+    },
+    "ingameAlerts": "ingame alerts",
+    "ingameAlertsOptions": {
+      "allAlerts": "all alerts",
+      "friends": "friends",
+      "noOne": "no one"
+    },
+    "firstName": "first name",
+    "lastName": "last name",
+    "contactEmail": "contact email",
+    "location": "location",
+    "country": "country",
+    "timezone": "timezone"
+  },
+  "profileConfig": {
+    "location": "Location",
+    "country": "Country",
+    "timezone": "Time zone"
+  },
+  "locationOptions": {
+    "location1": "location 1",
+    "location2": "location 2",
+    "location3": "location 3"
+  },
+  "countryOptions": {
+    "country1": "country 1",
+    "country2": "country 2",
+    "country3": "country 3"
+  },
+  "timezoneOptions": {
+    "GMT": "GMT",
+    "EST": "EST",
+    "PST": "PST"
+  },
+  "selectOption": {
+    "selectOption": "Select an Option",
+    "UiLanguage" : "UI Language"
+  },
+  "league": {
+    "title": "SILVER LEAGUE 2",
+    "subtitle": "TIME LEFT: 2 days, 4 hours",
+    "promote": "PROMOTE TO SILVER 1"
+  },
+  "places": {
+    "firstPlace": "First Place",
+    "firstPlaceDesc": "Get in first place at the end of the week to get a BIG LOOT CHEST and be promoted to SILVER I!",
+    "secondPlace": "Second Place",
+    "secondPlaceDesc": "Finish in second place to get a GREAT LOOT CHEST and be promoted to SILVER II!",
+    "thirdPlace": "Third Place",
+    "thirdPlaceDesc": "Secure third place to receive a GOOD LOOT CHEST!",
+    "fourthPlace": "Fourth Place",
+    "fourthPlaceDesc": "Finish in fourth place and receive a STANDARD LOOT CHEST."
+  },
+  "lobby": {
+    "player": "PLAYER",
+    "rating": "RATING",
+    "mode": "MODE",
+    "ranked": "RANKED"
+  },
+  "endGame" : {
+    "text" : "MATCH IS OVER!",
+    "subText" : "REVIEW THE GAME"
+  }
+}
